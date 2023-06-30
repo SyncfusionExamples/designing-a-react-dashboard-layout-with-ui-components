@@ -1,6 +1,6 @@
 # Designing a Dashboard Layout with UI Components
 
-A quick-start project that helps you to add UI components to the React Dashboard Layout component and arrange panels using the cell spacing property. This project contains code to customize the look of the dashboard using the css class property, floating panels and the responsive and adaptive layouts functionality of the dashboard
+A quick-start React project that contains code to add UI components to the React Dashboard Layout and arrange panels using the cell spacing property. This project also contains code to customize the look of the dashboard using the CSS class property, floating panels and the responsive and adaptive layouts functionality of the dashboard.
  
 Refer to the following documentation to learn about the React Dashboard Layout component: 
 https://ej2.syncfusion.com/react/documentation/dashboard-layout/getting-started 
